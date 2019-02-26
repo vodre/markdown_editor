@@ -21,5 +21,5 @@ yarn run electron-dev
 
 ## TODOs
 
--Save on Server Side files (currently only saves files on client side)
--Fix click events on List Items
+* Save on Server Side files (currently only saves files on client side)
+* Fix click events on List Items
