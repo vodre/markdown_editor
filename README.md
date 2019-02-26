@@ -18,3 +18,8 @@ yarn run electron-dev
 
 
 ![alt text](https://github.com/vodre/markdown_editor/blob/master/gif2.gif)
+
+## TODOs
+
+-Save on Server Side files (currently only saves files on client side)
+-Fix click events on List Items
